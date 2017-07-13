@@ -1,0 +1,39 @@
+[11-Apr-2017 09:35:41 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/upkabsco/public_html/app/Http/Controllers/PostAPIController.php on line 166
+[11-Apr-2017 09:35:53 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/upkabsco/public_html/app/Http/Controllers/PostAPIController.php on line 166
+[11-Apr-2017 09:35:59 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/upkabsco/public_html/app/Http/Controllers/PostAPIController.php on line 166
+[11-Apr-2017 09:36:11 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/upkabsco/public_html/app/Http/Controllers/PostAPIController.php on line 166
+[11-Apr-2017 09:36:54 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/upkabsco/public_html/app/Http/Controllers/PostAPIController.php on line 166
+[11-Apr-2017 09:38:12 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/upkabsco/public_html/app/Http/Controllers/PostAPIController.php on line 166
+[11-Apr-2017 09:38:36 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/upkabsco/public_html/app/Http/Controllers/PostAPIController.php on line 166
+[12-Apr-2017 05:57:10 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/upkabsco/public_html/storage/framework/views/431f05f0c8d6f74f8e03c9eebd6cfc2350cf91e9.php on line 21
+[12-Apr-2017 05:57:58 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/upkabsco/public_html/storage/framework/views/431f05f0c8d6f74f8e03c9eebd6cfc2350cf91e9.php on line 21
+[12-Apr-2017 05:58:47 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/upkabsco/public_html/storage/framework/views/431f05f0c8d6f74f8e03c9eebd6cfc2350cf91e9.php on line 21
+[12-Apr-2017 05:59:17 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/upkabsco/public_html/storage/framework/views/431f05f0c8d6f74f8e03c9eebd6cfc2350cf91e9.php on line 21
+[12-Apr-2017 06:00:06 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/upkabsco/public_html/storage/framework/views/431f05f0c8d6f74f8e03c9eebd6cfc2350cf91e9.php on line 21
+[12-Apr-2017 06:00:16 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/upkabsco/public_html/storage/framework/views/431f05f0c8d6f74f8e03c9eebd6cfc2350cf91e9.php on line 21
+[12-Apr-2017 14:41:37 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/upkabsco/public_html/storage/framework/views/431f05f0c8d6f74f8e03c9eebd6cfc2350cf91e9.php on line 21
+[12-Apr-2017 14:41:59 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/upkabsco/public_html/storage/framework/views/431f05f0c8d6f74f8e03c9eebd6cfc2350cf91e9.php on line 21
+[12-Apr-2017 14:42:05 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/upkabsco/public_html/storage/framework/views/431f05f0c8d6f74f8e03c9eebd6cfc2350cf91e9.php on line 21
+[12-Apr-2017 14:42:53 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/upkabsco/public_html/storage/framework/views/431f05f0c8d6f74f8e03c9eebd6cfc2350cf91e9.php on line 21
+[12-Apr-2017 14:43:50 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/upkabsco/public_html/storage/framework/views/431f05f0c8d6f74f8e03c9eebd6cfc2350cf91e9.php on line 21
+[14-Apr-2017 14:36:21 UTC] PHP Parse error:  syntax error, unexpected 'In' (T_STRING), expecting '(' in /home/upkabsco/public_html/storage/framework/views/bd2c79f08a597ae338c583d1c2abc6a8a4fa925d.php on line 25
+[14-Apr-2017 14:52:17 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Symfony\Component\HttpFoundation\Request' not found in /home/upkabsco/public_html/app/Http/Controllers/UserAPIController.php on line 11
+[14-Apr-2017 14:52:59 UTC] PHP Fatal error:  Cannot use Symfony\Component\HttpFoundation\Request as Request because the name is already in use in /home/upkabsco/public_html/app/Http/Controllers/UserAPIController.php on line 11
+[14-Apr-2017 14:54:17 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Symfony\Component\HttpFoundation\Request' not found in /home/upkabsco/public_html/app/Http/Controllers/UserAPIController.php on line 299
+[14-Apr-2017 14:54:31 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Symfony\Component\HttpFoundation\Request' not found in /home/upkabsco/public_html/app/Http/Controllers/UserAPIController.php on line 299
+[14-Apr-2017 14:54:35 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Symfony\Component\HttpFoundation\Request' not found in /home/upkabsco/public_html/app/Http/Controllers/UserAPIController.php on line 299
+[14-Apr-2017 14:55:41 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Symfony\Component\HttpFoundation\Request' not found in /home/upkabsco/public_html/app/Http/Controllers/UserAPIController.php on line 299
+[14-Apr-2017 14:55:44 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Symfony\Component\HttpFoundation\Request' not found in /home/upkabsco/public_html/app/Http/Controllers/UserAPIController.php on line 299
+[14-Apr-2017 14:55:46 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Symfony\Component\HttpFoundation\Request' not found in /home/upkabsco/public_html/app/Http/Controllers/UserAPIController.php on line 299
+[14-Apr-2017 14:55:55 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Symfony\Component\HttpFoundation\Request' not found in /home/upkabsco/public_html/app/Http/Controllers/UserAPIController.php on line 299
+[14-Apr-2017 14:55:58 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Symfony\Component\HttpFoundation\Request' not found in /home/upkabsco/public_html/app/Http/Controllers/UserAPIController.php on line 299
+[14-Apr-2017 14:56:00 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Symfony\Component\HttpFoundation\Request' not found in /home/upkabsco/public_html/app/Http/Controllers/UserAPIController.php on line 299
+[14-Apr-2017 14:56:01 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Symfony\Component\HttpFoundation\Request' not found in /home/upkabsco/public_html/app/Http/Controllers/UserAPIController.php on line 299
+[14-Apr-2017 14:56:03 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Symfony\Component\HttpFoundation\Request' not found in /home/upkabsco/public_html/app/Http/Controllers/UserAPIController.php on line 299
+[14-Apr-2017 14:56:04 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Symfony\Component\HttpFoundation\Request' not found in /home/upkabsco/public_html/app/Http/Controllers/UserAPIController.php on line 299
+[15-Apr-2017 02:10:20 UTC] PHP Fatal error:  Class 'App\Http\Controllers\ClickLibrary' not found in /home/upkabsco/public_html/app/Http/Controllers/PostAPIController.php on line 172
+[24-May-2017 07:22:46 UTC] PHP Parse error:  syntax error, unexpected 'creator' (T_STRING) in /home/upkabsco/public_html/storage/framework/views/e22e8aa076536c2c031828b9a79636a694d4500c.php on line 5
+[24-May-2017 07:23:37 UTC] PHP Parse error:  syntax error, unexpected 'creator' (T_STRING) in /home/upkabsco/public_html/storage/framework/views/e22e8aa076536c2c031828b9a79636a694d4500c.php on line 5
+[24-May-2017 07:23:49 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/upkabsco/public_html/storage/framework/views/e22e8aa076536c2c031828b9a79636a694d4500c.php on line 5
+[24-May-2017 07:26:03 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/upkabsco/public_html/storage/framework/views/e22e8aa076536c2c031828b9a79636a694d4500c.php on line 5
+[24-May-2017 07:26:08 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/upkabsco/public_html/storage/framework/views/e22e8aa076536c2c031828b9a79636a694d4500c.php on line 5
